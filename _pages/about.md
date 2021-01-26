@@ -14,5 +14,5 @@ I am a first year PhD student at Purdue University in the Department of Earth At
 I earned my B.A. in physics with an emphasis in astronomy and a math minor from Macalester College in May 2020. There, my research interests took me on a tour of our local universe, exploring bulk kinematics of dwarf galaxies, small-scale plasma eruptions in the Solar corona, and finally performing observations of near-Earth asteroids at the Arecibo Observatory. Through the Arecibo Observatory REU program, I discovered my love for radar observations while developing a radar-based model of the potentially-hazardous asteroid Midas.
 
 Outreach is also something I am very passionate about! Over the past four years I have enjoyed developing general-audience astronomy programs through different mediums. Some highlights include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park in the summer of 2019.
-
-In my free time I also enjoy hiking, playing with my cat, and playing roller derby. <img align="right" width="500" src='/images/ashPack.JPG'>
+<img align="right" width="500" src='/images/ashPack.JPG'>
+In my free time I also enjoy hiking, playing with my cat, and playing roller derby. 
