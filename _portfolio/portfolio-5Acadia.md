@@ -1,6 +1,6 @@
 ---
 title: "Maine"
-excerpt: "Summer 2020 spent at Acadia National Park 1<br/><img src='/images/500x300.png'>"
+excerpt: "Summer 2020 spent at Acadia National Park <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
