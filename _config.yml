@@ -145,6 +145,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - TODO
   - vendor
 keep_files:
   - .git
