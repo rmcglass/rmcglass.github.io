@@ -2,8 +2,7 @@
 permalink: /press/
 title: "In the News!"
 author_profile: true
-redirect_from: 
-  - /press/
+
 ---
 
 
