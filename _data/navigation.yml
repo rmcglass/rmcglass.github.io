@@ -8,4 +8,10 @@ main:
     
   - title: "Outreach"
     url: /outreach/
+    
+  - title: "In the news!"
+    url: /press/
+  
+  - title: "Photo Gallery"
+    url: /portfolio/
   
