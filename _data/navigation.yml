@@ -12,6 +12,6 @@ main:
   - title: "In the news!"
     url: /press/
   
-  - title: "Photo Gallery"
-    url: /portfolio/
+  #- title: "Photo Gallery"
+  #  url: /portfolio/
   
