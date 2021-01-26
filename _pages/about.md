@@ -16,4 +16,4 @@ I earned my B.A. in physics with an emphasis in astronomy and a math minor from 
 Outreach is also something I am very passionate about! Over the past four years I have enjoyed developing general-audience astronomy programs through different mediums. Some highlights include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park in the summer of 2019.
 
 <img align="right" width="400" src='/images/ashPack.JPG'>
-In my free time I also enjoy hiking, playing with my cat, and playing roller derby. 
+In my free time I also enjoy exploring our National Parks, playing with my cat (Ash), and playing roller derby. 
