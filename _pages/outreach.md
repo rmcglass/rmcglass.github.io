@@ -123,37 +123,37 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
   <img src='/images/bryceday.jpeg' style="text-align:center; height:768px">
-  <div class="text">Caption Text</div>
+  <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
   <img src='/images/brycenight.jpeg' style="text-align:center; height:768px">
-  <div class="text">Caption Two</div>
+  <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
   <img src='/images/brycetalk.jpg' style="text-align:center; height:768px">
-  <div class="text">Caption Three</div>
+  <div class="text">Presenting my program "A Message to the Universe" at the Bryce Canyon Lodge</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
   <img src='/images/brycemoon.jpeg' style="text-align:center; height:768px">
-  <div class="text">Caption Three</div>
+  <div class="text">The moon seen through one of the telescopes at Bryce Canyon</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
   <img src='/images/brycejupiter.jpeg' style="text-align:center; height:768px">
-  <div class="text">Caption Three</div>
+  <div class="text">Jupiter shines next to a hoodoo during a full moon hike at Bryce Canyon.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
   <img src='/images/brycemilkyway.jpeg' style="text-align:center; height:768px">
-  <div class="text">Caption Three</div>
+  <div class="text">The milky way as seen through night vision goggles.</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
