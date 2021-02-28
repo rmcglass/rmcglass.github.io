@@ -221,13 +221,13 @@ I have always loved public radio for its freedom to produce a variety of content
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
+  <div class="numbertext">1 / 2</div>
   <img src='/images/radioastrotelescope.jpeg' style="height:768px">
   <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext">2 / 2</div>
   <img src='/images/radioastrofinale.jpg' style="height:768px">
   <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon during the season 3 finale</div>
 </div>
