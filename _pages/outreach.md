@@ -123,37 +123,37 @@ img {vertical-align: middle; display: block;
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">1 / 6</div>
   <img src='/images/bryceday.jpeg' style="height:768px">
   <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">2 / 6</div>
   <img src='/images/brycenight.jpeg' style="height:768px">
   <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">3 / 6</div>
   <img src='/images/brycetalk.jpg' style="height:768px">
   <div class="text">Presenting my program "A Message to the Universe" at the Bryce Canyon Lodge</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">4 / 6</div>
   <img src='/images/brycemoon.jpeg' style="height:768px">
   <div class="text">The moon seen through one of the telescopes at Bryce Canyon</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">5 / 6</div>
   <img src='/images/brycejupiter.jpeg' style="height:768px">
   <div class="text">Jupiter shines next to a hoodoo during a full moon hike at Bryce Canyon.</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides1 fade">
   <div class="numbertext">6 / 6</div>
   <img src='/images/brycemilkyway.jpeg' style="height:768px">
   <div class="text">The milky way as seen through night vision goggles.</div>
@@ -188,7 +188,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
+  var slides = document.getElementsByClassName("mySlides1");
   var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
@@ -325,13 +325,13 @@ img {vertical-align: middle; display: block;
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext">1 / 2</div>
   <img src='/images/bryceday.jpeg' style="height:768px">
   <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext">2 / 2</div>
   <img src='/images/brycenight.jpeg' style="height:768px">
   <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
@@ -364,7 +364,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
+  var slides = document.getElementsByClassName("mySlides2");
   var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
