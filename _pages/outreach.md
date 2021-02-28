@@ -327,14 +327,14 @@ img {vertical-align: middle; display: block;
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 2</div>
-  <img src='/images/radioastrotelescope.jpeg' style="height:768px">
-  <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope</div>
+  <img src='/images/bryceday.jpeg' style="height:768px">
+  <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 2</div>
-  <img src='/images/radioastrofinale.jpg' style="height:768px">
-  <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon during the season 3 finale</div>
+  <img src='/images/brycenight.jpeg' style="height:768px">
+  <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
 </div>
 
 
@@ -379,5 +379,5 @@ function showSlides(n) {
 </script>
 
 </body>
-</html>
+</html> 
 
