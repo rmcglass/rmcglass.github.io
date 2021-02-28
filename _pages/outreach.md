@@ -208,3 +208,71 @@ function showSlides(n) {
 
 As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at the rim of the canyon showing visitors the night sky through telescopes. Visitors of all ages came (usually about 150 each night!), and we had great discussions about the planets, stars, black holes, our galaxy, and the stories we tell about constellations. I also led monthly full moon astronomy hikes into the canyon at night, lit only by moonlight. During the day, we would use solar telescopes to allows visitors the chance to safely look at the sun and teach them about sunspots and solar activity. I also got the opportunity to develop an evening program, which I would present biweekly to 80-100 visitors as a part of the park's normal programming as well as during the Bryce Canyon Astronomy Festival, which draws thousands of visitors each year to the park's dark skies. This program was titled "A Message to the Universe" and used the journey of the Voyager missions and the golden record to take audiences on a grand tour to the outer edge of our solar system.
 
+## Radio Astronomy: Astronomy outreach + college radio
+> Macalester's very own grassroots community astro talk show on WMCN. Hop on the shuttle as we blast off every week, exploring a supermassive topic in modern (astro)physics. We’ll cover it all- from the formation of the universe to the search for life, and everything in between. Anyone who wants to make contact with the cosmos should tune their receiver to ν = 91.7 MHz (λ = 3.27 m) in Saint Paul, MN or navigate to https://www.wmcn.fm/ for an hour of discovery. No previous knowledge necessary!
+
+I have always loved public radio for its freedom to produce a variety of content without being reliant on advertisers. At Macalester College, I found college radio to be an especially good platform to experiment with different ways of communicating science to general audiences. Radio Astronomy was started by three intrepid astronomy students: Catie Ball, Alex Gordon, and Liz Ruvalo. These three were inspired by the content of their astrophysics class and wanted to share it with the rest of Macalester students as well as the surrounding community. I joined Catie and Alex as the third cohost in season 2 of the show, and as my cohosts graduated and moved on to doing other incredible science, I took on new cohosts (Sarah Taft, then Josh Bartz and Nick Velikonja) and Radio Astronomy continued on the air through a 5th season. Due to the coronavirus pandemic limiting access to the studio, Radio Astronomy is on a hiatus, but I hope that it will return someday.
+
+### [Listen to our archived episodes from seasons 2-5 here!](https://www.mixcloud.com/radioastronomy917/)
+
+<html>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 6</div>
+  <img src='/images/radioastrotelescope.jpeg' style="height:768px">
+  <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 6</div>
+  <img src='/images/radioastrofinale.jpg' style="height:768px">
+  <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon during the season 3 finale</div>
+</div>
+
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html>
+
