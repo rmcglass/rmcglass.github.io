@@ -213,7 +213,7 @@ As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at 
 
 I have always loved public radio for its freedom to produce a variety of content without being reliant on advertisers. At Macalester College, I found college radio to be an especially good platform to experiment with different ways of communicating science to general audiences. Radio Astronomy was started by three intrepid astronomy students: Catie Ball, Alex Gordon, and Liz Ruvalo. These three were inspired by the content of their astrophysics class and wanted to share it with the rest of Macalester students as well as the surrounding community. I joined Catie and Alex as the third cohost in season 2 of the show, and as my cohosts graduated and moved on to doing other incredible science, I took on new cohosts (Sarah Taft, then Josh Bartz and Nick Velikonja) and Radio Astronomy continued on the air through a 5th season. Due to the coronavirus pandemic limiting access to the studio, Radio Astronomy is on a hiatus, but I hope that it will return someday.
 
-### [Listen to our archived episodes from seasons 2-5 here!](https://www.mixcloud.com/radioastronomy917/)
+### Listen to our archived episodes from seasons 2-5 [here!](https://www.mixcloud.com/radioastronomy917/)
 
 <html>
 <head>
