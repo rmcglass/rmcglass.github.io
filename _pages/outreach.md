@@ -224,20 +224,20 @@ I have always loved public radio for its freedom to produce a variety of content
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
+.mySlides2 {display: none}
 img {vertical-align: middle; display: block;
   margin-left: auto;
   margin-right: auto}
 
 /* Slideshow container */
-.slideshow-container {
+.slideshow-container2 {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev2, .next2 {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -254,13 +254,13 @@ img {vertical-align: middle; display: block;
 }
 
 /* Position the "next button" to the right */
-.next {
+.next2 {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev2:hover, .next2:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
@@ -285,7 +285,7 @@ img {vertical-align: middle; display: block;
 }
 
 /* The dots/bullets/indicators */
-.dot {
+.dot2 {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -320,64 +320,64 @@ img {vertical-align: middle; display: block;
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+  .prev2, .next2,.text {font-size: 11px}
 }
 </style>
 </head>
 <body>
 
-<div class="slideshow-container">
+<div class="slideshow-container2">
 
 <div class="mySlides2 fade">
   <div class="numbertext">1 / 2</div>
-  <img src='/images/radioastrotelescope.jpeg' style="height:768px">
+  <img src='/images/radioastrotelescope.jpeg' style="height:100%">
   <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope.</div>
 </div>
 
 <div class="mySlides2 fade">
   <div class="numbertext">2 / 2</div>
-  <img src='/images/radioastrofinale.JPG' style="height:768px">
+  <img src='/images/radioastrofinale.JPG' style="height:100%">
   <div class="text">Left to right: hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.</div>
 </div>
 
 
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
+<a class="prev2" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next2" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot2" onclick="currentSlide(1)"></span> 
+  <span class="dot2" onclick="currentSlide(2)"></span>
 </div>
 
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
+var slideIndex2 = 1;
+showSlides(slideIndex2);
 
 function plusSlides(n) {
-  showSlides(slideIndex += n);
+  showSlides(slideIndex2 += n);
 }
 
 function currentSlide(n) {
-  showSlides(slideIndex = n);
+  showSlides(slideIndex2 = n);
 }
 
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides2");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
+  var dots = document.getElementsByClassName("dot2");
+  if (n > slides.length) {slideIndex2 = 1}    
+  if (n < 1) {slideIndex2 = slides.length}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+  slides[slideIndex2-1].style.display = "block";  
+  dots[slideIndex2-1].className += " active";
 }
 </script>
 
