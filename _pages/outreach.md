@@ -7,7 +7,7 @@ redirect_from:
   - /outreach
 ---
 ---
-
+test
 I am very passionate about exploring different creative forms of scientific outreach. Science should be for everyone, which is why I believe in creating accessible opportunites for the general public to learn about the nature of our universe. Along with speaking to middle and high school science classes, I have created outreach materials for radio and outdoor education settings. I have highlighted some of my favorites below:
 
 ## Astronomy Ranger: Exploring the dark skies of Bryce Canyon National Park
@@ -93,7 +93,7 @@ img {vertical-align: middle; display: block;
   transition: background-color 0.6s ease;
 }
 
-.active1, .dot1:hover {
+.active, .dot1:hover {
   background-color: #717171;
 }
 
@@ -198,10 +198,10 @@ function showSlides1(n) {
       slides[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active1", "");
+      dots[i].className = dots[i].className.replace(" active", "");
   }
   slides[slideIndex1-1].style.display = "block";  
-  dots[slideIndex1-1].className += " active1";
+  dots[slideIndex1-1].className += " active";
 }
 </script>
 
