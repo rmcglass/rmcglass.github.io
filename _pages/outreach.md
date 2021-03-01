@@ -7,7 +7,7 @@ redirect_from:
   - /outreach
 ---
 ---
-test
+
 I am very passionate about exploring different creative forms of scientific outreach. Science should be for everyone, which is why I believe in creating accessible opportunites for the general public to learn about the nature of our universe. Along with speaking to middle and high school science classes, I have created outreach materials for radio and outdoor education settings. I have highlighted some of my favorites below:
 
 ## Astronomy Ranger: Exploring the dark skies of Bryce Canyon National Park
@@ -21,20 +21,20 @@ Nearly 80% of North Americans can't see the Milky Way, but at Bryce Canyon it is
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
+.mySlides1 {display: none}
 img {vertical-align: middle; display: block;
   margin-left: auto;
   margin-right: auto}
 
 /* Slideshow container */
-.slideshow-container {
+.slideshow-container1 {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev1, .next1 {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -51,18 +51,18 @@ img {vertical-align: middle; display: block;
 }
 
 /* Position the "next button" to the right */
-.next {
+.next1 {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev1:hover, .next1:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
 /* Caption text */
-.text {
+.text1 {
   color: #f2f2f2;
   font-size: 15px;
   padding: 8px 12px;
@@ -73,7 +73,7 @@ img {vertical-align: middle; display: block;
 }
 
 /* Number text (1/3 etc) */
-.numbertext {
+.numbertext1 {
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
@@ -82,7 +82,7 @@ img {vertical-align: middle; display: block;
 }
 
 /* The dots/bullets/indicators */
-.dot {
+.dot1 {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -93,7 +93,7 @@ img {vertical-align: middle; display: block;
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+.active1, .dot1:hover {
   background-color: #717171;
 }
 
@@ -117,91 +117,91 @@ img {vertical-align: middle; display: block;
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+  .prev1, .next1,.text1 {font-size: 11px}
 }
 </style>
 </head>
 <body>
 
-<div class="slideshow-container">
+<div class="slideshow-container1">
 
 <div class="mySlides1 fade">
-  <div class="numbertext">1 / 6</div>
+  <div class="numbertext1">1 / 6</div>
   <img src='/images/bryceday.jpeg' style="height:768px">
-  <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
+  <div class="text1">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
 <div class="mySlides1 fade">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext1">2 / 6</div>
   <img src='/images/brycenight.jpeg' style="height:768px">
-  <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
+  <div class="text1">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
 </div>
 
 <div class="mySlides1 fade">
-  <div class="numbertext">3 / 6</div>
+  <div class="numbertext1">3 / 6</div>
   <img src='/images/brycetalk.jpg' style="height:768px">
-  <div class="text">Presenting my program "A Message to the Universe" at the Bryce Canyon Lodge</div>
+  <div class="text1">Presenting my program "A Message to the Universe" at the Bryce Canyon Lodge</div>
 </div>
 
 <div class="mySlides1 fade">
-  <div class="numbertext">4 / 6</div>
+  <div class="numbertext1">4 / 6</div>
   <img src='/images/brycemoon.jpeg' style="height:768px">
-  <div class="text">The moon seen through one of the telescopes at Bryce Canyon</div>
+  <div class="text1">The moon seen through one of the telescopes at Bryce Canyon</div>
 </div>
 
 <div class="mySlides1 fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext1">5 / 6</div>
   <img src='/images/brycejupiter.jpeg' style="height:768px">
-  <div class="text">Jupiter shines next to a hoodoo during a full moon hike at Bryce Canyon.</div>
+  <div class="text1">Jupiter shines next to a hoodoo during a full moon hike at Bryce Canyon.</div>
 </div>
 
 <div class="mySlides1 fade">
-  <div class="numbertext">6 / 6</div>
+  <div class="numbertext1">6 / 6</div>
   <img src='/images/brycemilkyway.jpeg' style="height:768px">
-  <div class="text">The milky way as seen through night vision goggles.</div>
+  <div class="text1">The milky way as seen through night vision goggles.</div>
 </div>
 
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
+<a class="prev1" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next1" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span> 
-  <span class="dot" onclick="currentSlide(5)"></span> 
-  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot1" onclick="currentSlide(1)"></span> 
+  <span class="dot1" onclick="currentSlide(2)"></span> 
+  <span class="dot1" onclick="currentSlide(3)"></span>
+  <span class="dot1" onclick="currentSlide(4)"></span> 
+  <span class="dot1" onclick="currentSlide(5)"></span> 
+  <span class="dot1" onclick="currentSlide(6)"></span>
 </div>
 
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
+var slideIndex1 = 1;
+showSlides(slideIndex1);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+function plusSlides1(n) {
+  showSlides(slideIndex1 += n);
 }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
+function currentSlide1(n) {
+  showSlides(slideIndex1 = n);
 }
 
-function showSlides(n) {
+function showSlides1(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides1");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
+  var dots = document.getElementsByClassName("dot1");
+  if (n > slides.length) {slideIndex1 = 1}    
+  if (n < 1) {slideIndex1 = slides.length}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+      dots[i].className = dots[i].className.replace(" active1", "");
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+  slides[slideIndex1-1].style.display = "block";  
+  dots[slideIndex1-1].className += " active1";
 }
 </script>
 
