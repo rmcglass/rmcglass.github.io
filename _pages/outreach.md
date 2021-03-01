@@ -7,6 +7,7 @@ redirect_from:
   - /outreach
 ---
 ---
+test
 I am very passionate about exploring different creative forms of scientific outreach. Science should be for everyone, which is why I believe in creating accessible opportunites for the general public to learn about the nature of our universe. Along with speaking to middle and high school science classes, I have created outreach materials for radio and outdoor education settings. I have highlighted some of my favorites below:
 
 ## Astronomy Ranger: Exploring the dark skies of Bryce Canyon National Park
