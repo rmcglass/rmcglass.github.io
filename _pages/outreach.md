@@ -336,8 +336,8 @@ img {vertical-align: middle; display: block;
 
 <div class="mySlides2 fade">
   <div class="numbertext">2 / 2</div>
-  <img src='/images/radioastrofinale.jpg' style="height:768px">
-  <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon during the season 3 finale.</div>
+  <img src='/images/radioastrofinale.JPG' style="height:768px">
+  <div class="text">Left to right: hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.</div>
 </div>
 
 
