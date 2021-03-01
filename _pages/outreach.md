@@ -7,7 +7,7 @@ redirect_from:
   - /outreach
 ---
 ---
-
+test
 I am very passionate about exploring different creative forms of scientific outreach. Science should be for everyone, which is why I believe in creating accessible opportunites for the general public to learn about the nature of our universe. Along with speaking to middle and high school science classes, I have created outreach materials for radio and outdoor education settings. I have highlighted some of my favorites below:
 
 ## Astronomy Ranger: Exploring the dark skies of Bryce Canyon National Park
@@ -20,11 +20,8 @@ Nearly 80% of North Americans can't see the Milky Way, but at Bryce Canyon it is
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides1 {display: none}
-img {vertical-align: middle; display: block;
-  margin-left: auto;
-  margin-right: auto}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
@@ -47,7 +44,6 @@ img {vertical-align: middle; display: block;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
-  background-color: rgba(0,0,0,0.2);
 }
 
 /* Position the "next button" to the right */
@@ -56,9 +52,10 @@ img {vertical-align: middle; display: block;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
+/* On hover, add a grey background color */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: #f1f1f1;
+  color: black;
 }
 
 /* Caption text */
@@ -81,101 +78,50 @@ img {vertical-align: middle; display: block;
   top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
 </style>
 </head>
 <body>
 
 <div class="slideshow-container">
-
-<div class="mySlides1 fade">
+  <div class="mySlides1">
   <div class="numbertext">1 / 6</div>
   <img src='/images/bryceday.jpeg' style="height:768px">
   <div class="text">Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</div>
 </div>
 
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">2 / 6</div>
   <img src='/images/brycenight.jpeg' style="height:768px">
   <div class="text">Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</div>
 </div>
 
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">3 / 6</div>
   <img src='/images/brycetalk.jpg' style="height:768px">
   <div class="text">Presenting my program "A Message to the Universe" at the Bryce Canyon Lodge</div>
 </div>
 
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">4 / 6</div>
   <img src='/images/brycemoon.jpeg' style="height:768px">
   <div class="text">The moon seen through one of the telescopes at Bryce Canyon</div>
 </div>
 
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">5 / 6</div>
   <img src='/images/brycejupiter.jpeg' style="height:768px">
   <div class="text">Jupiter shines next to a hoodoo during a full moon hike at Bryce Canyon.</div>
 </div>
 
-<div class="mySlides1 fade">
+<div class="mySlides1">
   <div class="numbertext">6 / 6</div>
   <img src='/images/brycemilkyway.jpeg' style="height:768px">
   <div class="text">The milky way as seen through night vision goggles.</div>
 </div>
 
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span> 
-  <span class="dot" onclick="currentSlide(5)"></span> 
-  <span class="dot" onclick="currentSlide(6)"></span>
-</div>
- 
 
 <p>As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at the rim of the canyon showing visitors the night sky through telescopes. Visitors of all ages came (usually about 150 each night!), and we had great discussions about the planets, stars, black holes, our galaxy, and the stories we tell about constellations. I also led monthly full moon astronomy hikes into the canyon at night, lit only by moonlight. During the day, we would use solar telescopes to allows visitors the chance to safely look at the sun and teach them about sunspots and solar activity. I also got the opportunity to develop an evening program, which I would present biweekly to 80-100 visitors as a part of the park's normal programming as well as during the Bryce Canyon Astronomy Festival, which draws thousands of visitors each year to the park's dark skies. This program was titled "A Message to the Universe" and used the journey of the Voyager missions and the golden record to take audiences on a grand tour to the outer edge of our solar system.
 </p>
@@ -189,35 +135,22 @@ img {vertical-align: middle; display: block;
 </p>
 <h3> Listen to our archived episodes from seasons 2-5 <a href="https://www.mixcloud.com/radioastronomy917/">here!</a></h3>
 
-
-
 <div class="slideshow-container">
-
-<div class="mySlides2 fade">
+  <div class="mySlides2">
   <div class="numbertext">1 / 2</div>
   <img src='/images/radioastrotelescope.jpeg' style="height:100%">
   <div class="text">Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope.</div>
 </div>
 
-<div class="mySlides2 fade">
+<div class="mySlides2">
   <div class="numbertext">2 / 2</div>
   <img src='/images/radioastrofinale.JPG' style="height:100%">
   <div class="text">Left to right: hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.</div>
 </div>
 
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+  <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
 </div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span>
-</div>
-
-
 
 <script>
 var slideIndex = [1,1];
@@ -243,3 +176,9 @@ function showSlides(n, no) {
 
 </body>
 </html> 
+
+ 
+
+
+
+
