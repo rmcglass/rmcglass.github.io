@@ -7,7 +7,7 @@ redirect_from:
   - /outreach
 ---
 ---
-
+test
 I am very passionate about exploring different creative forms of scientific outreach. Science should be for everyone, which is why I believe in creating accessible opportunites for the general public to learn about the nature of our universe. Along with speaking to middle and high school science classes, I have created outreach materials for radio and outdoor education settings. I have highlighted some of my favorites below:
 
 ## Astronomy Ranger: Exploring the dark skies of Bryce Canyon National Park
@@ -175,12 +175,10 @@ img {vertical-align: middle; display: block;
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span>
 </div>
+ 
 
-</body>
-</html> 
-
-As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at the rim of the canyon showing visitors the night sky through telescopes. Visitors of all ages came (usually about 150 each night!), and we had great discussions about the planets, stars, black holes, our galaxy, and the stories we tell about constellations. I also led monthly full moon astronomy hikes into the canyon at night, lit only by moonlight. During the day, we would use solar telescopes to allows visitors the chance to safely look at the sun and teach them about sunspots and solar activity. I also got the opportunity to develop an evening program, which I would present biweekly to 80-100 visitors as a part of the park's normal programming as well as during the Bryce Canyon Astronomy Festival, which draws thousands of visitors each year to the park's dark skies. This program was titled "A Message to the Universe" and used the journey of the Voyager missions and the golden record to take audiences on a grand tour to the outer edge of our solar system.
-
+<p>As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at the rim of the canyon showing visitors the night sky through telescopes. Visitors of all ages came (usually about 150 each night!), and we had great discussions about the planets, stars, black holes, our galaxy, and the stories we tell about constellations. I also led monthly full moon astronomy hikes into the canyon at night, lit only by moonlight. During the day, we would use solar telescopes to allows visitors the chance to safely look at the sun and teach them about sunspots and solar activity. I also got the opportunity to develop an evening program, which I would present biweekly to 80-100 visitors as a part of the park's normal programming as well as during the Bryce Canyon Astronomy Festival, which draws thousands of visitors each year to the park's dark skies. This program was titled "A Message to the Universe" and used the journey of the Voyager missions and the golden record to take audiences on a grand tour to the outer edge of our solar system.
+</p>
 ## Radio Astronomy: Astronomy outreach + college radio
 ---
 > Macalester's very own grassroots community astro talk show on WMCN. Hop on the shuttle as we blast off every week, exploring a supermassive topic in modern (astro)physics. We’ll cover it all- from the formation of the universe to the search for life, and everything in between. Anyone who wants to make contact with the cosmos should tune their receiver to ν = 91.7 MHz (λ = 3.27 m) in Saint Paul, MN or navigate to https://www.wmcn.fm/ for an hour of discovery. No previous knowledge necessary!
@@ -190,113 +188,7 @@ I have always loved public radio for its freedom to produce a variety of content
 ### Listen to our archived episodes from seasons 2-5 [here!](https://www.mixcloud.com/radioastronomy917/)
 
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides2 {display: none}
-img {vertical-align: middle; display: block;
-  margin-left: auto;
-  margin-right: auto}
 
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  background-color: rgba(0,0,0,0.2);
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-</style>
-</head>
-<body>
 
 <div class="slideshow-container">
 
