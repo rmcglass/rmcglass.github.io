@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Outreach"
-  #  url: /outreach/
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "In the news!"
     url: /press/
