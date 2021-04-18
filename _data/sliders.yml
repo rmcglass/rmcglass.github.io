@@ -10,5 +10,5 @@
     - src: /images/brycetalk.jpg
       alt: image three
   settings:
-    height: "'auto'"
+    height: 768
     effect: "'fade'"
