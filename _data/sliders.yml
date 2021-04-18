@@ -1,0 +1,13 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /images/bryceday.jpeg
+      alt: image one
+    - src: /images/brycenight.jpeg
+      alt: image two
+    - src: /images/brycetalk.jpg
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
