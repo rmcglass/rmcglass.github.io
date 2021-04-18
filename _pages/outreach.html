@@ -7,6 +7,11 @@ redirect_from:
   - /outreach
 ---
 <html>
+<head>
+  <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="js/lightslider.js"></script>
+</head>
 <body>
 
 <hr>
@@ -18,8 +23,73 @@ I am very passionate about exploring different creative forms of scientific outr
 <p>Bryce Canyon National Park in southern Utah was recently classified as a dark sky park by the International Dark-Sky Association, which is a testament to the clarity of its night skies as well as its commitment to darky sky education and conservation. 
 Nearly 80% of North Americans can't see the Milky Way, but at Bryce Canyon it is almost a nightly occurance. </p>
 
-<iframe src="https://rmcglass.github.io/jekyll-slideshow/slides/my-pics1.html" width="100%" height="100%" style="border: none;"></iframe>
+<ul id="lightSlider">
+  <li>
+      <img src='/images/bryceday.jpeg' style="height:768px">
+      <p>Looking over the canyon edge at the hoodoos of Bryce Canyon National Park.</p>
+  </li>
+  <li>
+      <img src='/images/brycenight.jpeg' style="height:768px">
+      <p>Twilight at Bryce Canyon's Sunset Point, while we were setting up telescopes.</p>
+  </li>
+</ul>
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#lightSlider").lightSlider({
+        item: 1,
+        autoWidth: true,
+        slideMove: 1, // slidemove will be 1 if loop is true
+        slideMargin: 10,
+ 
+        addClass: '',
+        mode: "slide",
+        useCSS: true,
+        cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+        easing: 'linear', //'for jquery animation',////
+ 
+        speed: 400, //ms'
+        auto: false,
+        loop: false,
+        slideEndAnimation: true,
+        pause: 2000,
+ 
+        keyPress: false,
+        controls: true,
+        prevHtml: '',
+        nextHtml: '',
+ 
+        rtl:false,
+        adaptiveHeight:false,
+ 
+        vertical:false,
+        verticalHeight:500,
+        vThumbWidth:100,
+ 
+        thumbItem:10,
+        pager: true,
+        gallery: false,
+        galleryMargin: 5,
+        thumbMargin: 5,
+        currentPagerPosition: 'middle',
+ 
+        enableTouch:true,
+        enableDrag:true,
+        freeMove:true,
+        swipeThreshold: 40,
+ 
+        responsive : [],
+ 
+        onBeforeStart: function (el) {},
+        onSliderLoad: function (el) {},
+        onBeforeSlide: function (el) {},
+        onAfterSlide: function (el) {},
+        onBeforeNextSlide: function (el) {},
+        onBeforePrevSlide: function (el) {}
+    });
+});
+</script>
 
+  
 <p>As an astronomy ranger intern in the summer of 2019, I spent 5 nights a week at the rim of the canyon showing visitors the night sky through telescopes. Visitors of all ages came (usually about 150 each night!), and we had great discussions about the planets, stars, black holes, our galaxy, and the stories we tell about constellations. I also led monthly full moon astronomy hikes into the canyon at night, lit only by moonlight. During the day, we would use solar telescopes to allows visitors the chance to safely look at the sun and teach them about sunspots and solar activity. I also got the opportunity to develop an evening program, which I would present biweekly to 80-100 visitors as a part of the park's normal programming as well as during the Bryce Canyon Astronomy Festival, which draws thousands of visitors each year to the park's dark skies. This program was titled "A Message to the Universe" and used the journey of the Voyager missions and the golden record to take audiences on a grand tour to the outer edge of our solar system.
 </p>
 <h2>Radio Astronomy: Astronomy outreach + college radio
@@ -34,6 +104,7 @@ Nearly 80% of North Americans can't see the Milky Way, but at Bryce Canyon it is
 
 
 </body>
+  
 </html> 
  
 
