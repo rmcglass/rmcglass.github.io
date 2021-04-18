@@ -16,7 +16,8 @@
     - src: /images/brycemilkyway.jpeg
       alt: The milky way as seen through night vision goggles.
   settings:
-    height: 768
+    height: "'auto'"
+    maxHeight: 768
     effect: "'fade'"
 
 #radio slider
@@ -30,4 +31,5 @@
       alt: Hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.
   settings:
     height: "'auto'"
+    maxHeight: 768
     effect: "'fade'"
