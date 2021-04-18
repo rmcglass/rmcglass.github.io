@@ -1,5 +1,6 @@
 # example slider
-- selector: example_slider
+- selector: bryce_slider
+  bullets: true
   captions: true
   images:
     - src: /images/bryceday.jpeg
