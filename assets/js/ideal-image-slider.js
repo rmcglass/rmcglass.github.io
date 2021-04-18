@@ -403,7 +403,7 @@ var IdealImageSlider = (function() {
 			height: 'auto', // "auto" | px value (e.g. 400) | aspect ratio (e.g. "16:9")
 			initialHeight: 400, // for "auto" and aspect ratio
 			maxHeight: null, // for "auto" and aspect ratio
-			interval: 4000,
+			interval: 400000,
 			transitionDuration: 700,
 			effect: 'slide',
 			disableNav: false,
