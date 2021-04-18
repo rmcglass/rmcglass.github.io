@@ -19,6 +19,7 @@
     height: 768
     effect: "'fade'"
 
+#radio slider
 - selector: radio_slider
   bullets: true
   captions: true
