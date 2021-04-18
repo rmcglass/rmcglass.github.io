@@ -25,9 +25,9 @@
   captions: true
   images:
     - src: /images/radioastrotelescope.jpeg
-      alt: Left to right: hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope.
+      alt: Hosts Catie Ball, Riley McGlasson, and Alex Gordon with the Macalester telescope.
     - src: /images/radioastrofinale.JPG
-      alt: Left to right: hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.
+      alt: Hosts Alex Gordon, Sarah Taft, Riley McGlasson, and Catie Ball during the season 3 finale.
   settings:
     height: "'auto'"
     effect: "'fade'"
