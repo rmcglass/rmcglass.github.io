@@ -9,7 +9,7 @@ author_profile: true
 ### May 2022 American Astronomical Society YouTube: [AAS Journal Author Series](https://www.youtube.com/watch?v=FOoK_Lsy4Jw) 
 
 <p align="center">
-<br/><img src='/images/RileyAASpress.jpeg' style="width:400px;"> 
+<br/><img src='/images/RileyAASpress.png' style="width:400px;"> 
 </p>
 
 ---
