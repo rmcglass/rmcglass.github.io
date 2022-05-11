@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 ---
+### May 2022 American Astronomical Society YouTube: [AAS Journal Author Series](https://www.youtube.com/watch?v=FOoK_Lsy4Jw) 
+
+<p align="center">
+<br/><img src='/images/RileyAASpress.jpeg' style="width:400px;"> 
+</p>
+
+---
+### March 2022 Arecibo Observatory Blog: [Arecibo REU Student Publishes AO Radar Study on Large Potentially Hazardous Asteroid](http://www.naic.edu/ao/blog/arecibo-reu-student-publishes-ao-radar-study-large-potentially-hazardous-asteroid#overlay-context=scientist-user-portal/) 
+
+<p align="center">
+<br/><img src='/images/RileyAOpress.jpeg' style="width:400px;"> 
+</p>
+
+---
 ### March 2022 AGU Press Release: [Mounds Of Ice In Craters Give New Insight Into Mars’ Past Climate](https://news.agu.org/press-release/mounds-of-ice-in-craters-give-new-insight-into-mars-past-climate) 
 
 <p align="center">
