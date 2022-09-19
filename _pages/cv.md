@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV]("../files/CVSep13_2022.pdf")
+[Download CV]("/../files/CVSep13_2022.pdf")
 rel
 <embed src="https://rmcglass.github.io/files/CVSep13_2022.pdf" type="application/pdf" height="350"/>
