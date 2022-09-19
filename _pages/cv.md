@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 [Download CV](../files/CVSep13_2022.pdf)
-rel
 <embed src="https://rmcglass.github.io/files/CVSep13_2022.pdf" type="application/pdf" height="350"/>
