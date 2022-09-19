@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
+[Download CV]({{file name='https://rmcglass.github.io/files/CVSep13_2022.pdf'}})
 <embed src="https://rmcglass.github.io/files/CVSep13_2022.pdf" type="application/pdf" height="350"/>
