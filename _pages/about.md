@@ -17,3 +17,5 @@ Informal education is also something I am very passionate about! Over the past f
 
 <img align="right" width="360" style="padding: 10px" src='/images/MarsMadnessSB.jpg'>
 In my free time I also enjoy exploring our National Parks, playing with my cat (Ash), and playing roller derby for the Lafayette Roller Derby Supernovas as #24 Mars Madness. 
+
+(Curious about roller derby? Check out this 1-minute video explanation: [Derby 101](https://youtu.be/OId6gTd2LCM))
