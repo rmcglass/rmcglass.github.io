@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ---
+### Purdue EAPS News: [Polar ice caps may reveal climate history of Mars](https://www.eaps.purdue.edu/news/articles/2023/0518_mcglasson_mars.html) 
+
+<p align="center">
+<br/><img src='/images/PurdueEAPSnews.png' style="width:400px;"> 
+</p>
+---
 ### May 2022 American Astronomical Society YouTube: [AAS Journal Author Series](https://www.youtube.com/watch?v=FOoK_Lsy4Jw) 
 
 <p align="center">
