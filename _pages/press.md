@@ -11,6 +11,7 @@ author_profile: true
 <p align="center">
 <br/><img src='/images/PurdueEAPSnews.png' style="width:400px;"> 
 </p>
+
 ---
 ### May 2022 American Astronomical Society YouTube: [AAS Journal Author Series](https://www.youtube.com/watch?v=FOoK_Lsy4Jw) 
 
