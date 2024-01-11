@@ -15,7 +15,7 @@ I earned my B.A. in physics with an emphasis in astronomy and a math minor from 
 
 Informal education is also something I am very passionate about! Over the past four years I have enjoyed developing general-audience astronomy programs through different mediums. Some [highlights](https://rmcglass.github.io/outreach/) include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park in the summer of 2019.
 
-<img align="right" width="360" style="padding: 10px" src='/images/MarsMadnessSB.jpg'>
+<img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'>
 In my free time I also enjoy exploring our National Parks, playing with my cat (Ash), and playing roller derby for the Lafayette Roller Derby Supernovas as #24 Mars Madness. 
 
 (Curious about roller derby? Check out this 1-minute video explanation: [Derby 101](https://youtu.be/OId6gTd2LCM))
