@@ -9,7 +9,9 @@ redirect_from:
 ---
 ## Welcome!
 
-I am a fifth year PhD candidate at Purdue University in the Department of Earth Atmospheric and Planetary Sciences, where I work with professor Ali Bramson. My current research interests involve radar and planetary ices, and my research in the Bramson lab is focused on using subsurface radar observations, lab experiments, and analog field work to understand how ice deposits near the Martian poles may answer questions about Mars' enigmatic climate history.
+I am a fifth year PhD candidate at Purdue University in the Department of Earth Atmospheric and Planetary Sciences, where I work with professor Ali Bramson. My current research interests involve radar and planetary ices, and my research in the Bramson lab is focused on using subsurface radar observations, lab experiments, and analog field work to understand how ice deposits near the Martian poles may answer questions about Mars' enigmatic climate history. 
+
+**I anticipate defending my PhD during the 2024-2025 academic year and am looking for postdoctoral opportunities!**
 
 I earned my B.A. in physics with an emphasis in astronomy and a math minor from Macalester College in May 2020. There, my research interests took me on a tour of our local universe, exploring bulk kinematics of dwarf galaxies, small-scale plasma eruptions in the Solar corona, and finally performing observations of near-Earth asteroids at the Arecibo Observatory. Through the Arecibo Observatory REU program, I discovered my love for radar observations while developing a radar-based model of the potentially-hazardous asteroid Midas.
 
