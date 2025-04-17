@@ -48,7 +48,7 @@ author_profile: true
 </p>
 
 ---
-### August 2017 in Macalester Today: [First-Year Firecrackers](https://www.macalester.edu/news/2017/08/first-year-firecrackers/)
+### August 2017 in Macalester Today: [First-Year Firecrackers](https://web.archive.org/web/20210620165739/https://www.macalester.edu/news/2017/08/first-year-firecrackers/)
 
 <p align="center">
 <br/><img src='/images/MacToday2017.png' style="width:400px;">
