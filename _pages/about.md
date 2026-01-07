@@ -9,11 +9,11 @@ redirect_from:
 ---
 ## Welcome!
 
-As a planetary scientist interested in radar sounding capabilities and planetary ices, I use a combination of subsurface radar observations, lab experiments, and analog field work to understand the role planetary ices play in climate evolution throughout our Solar System.  
+As a planetary scientist, I use a combination of remote sensing datasets and analog field work to study surface processes on planets in our Solar System. I am particularly interested in polar and volcanic processes, and my research relies heavily on the use of orbital radars to penetrate through otherwise-opaque materials like ice or the thick atmosphere of Venus to uncover the geologic history beneath them. 
 
-I received my PhD in planetary science in Fall 2024 at Purdue University in the Department of Earth Atmospheric and Planetary Sciences, where I worked with professor Ali Bramson studying radar observations of Mars' polar regions. I earned my B.A. in physics with an emphasis in astronomy and a math minor from Macalester College in May 2020. There, my research interests took me on a tour of our local universe, exploring bulk kinematics of dwarf galaxies, small-scale plasma eruptions in the Solar corona, and finally performing observations of near-Earth asteroids at the Arecibo Observatory. 
+I received my PhD in planetary science in Fall 2024 at Purdue University in the Department of Earth Atmospheric and Planetary Sciences, where I used a combination of remote sensing, computer modeling, and laboratory experiments to study the structure and evolution of Mars' polar ice caps. I earned my B.A. in physics with an emphasis in astronomy and a math minor from Macalester College in May 2020. There, my research interests took me on a tour of our local universe, from dwarf galaxies to solar flares, until I was introduced to the fascinating world of planetary radar.
 
-Informal education is also something I am very passionate about! I have enjoyed developing general-audience astronomy programs through different mediums. Some [highlights](https://rmcglass.github.io/outreach/) include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park in the summer of 2019.
+Informal education is also something I am very passionate about! I have enjoyed developing general-audience astronomy programs through different mediums. Some [highlights](https://rmcglass.github.io/outreach/) include hosting Radio Astronomy, an astronomy talk radio program on Macalester College Radio (WMCN 91.7 FM St. Paul, MN), and an internship as an astronomy ranger at Bryce Canyon National Park.
 
 <img align="right" width="360" style="padding: 10px" src='/images/Mars_IDD.jpg'>
 In my free time I also enjoy exploring our National Parks and playing roller derby as #27 Mars Madness. 
