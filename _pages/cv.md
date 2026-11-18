@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](../files/McGlassonCV_2026-10-06.pdf)
-<embed src="https://rmcglass.github.io/files/McGlassonCV_2026-10-06.pdf" type="application/pdf" height="350"/>
+[Download CV](../files/McGlassonCV_2026-11-18.pdf)
+<embed src="https://rmcglass.github.io/files/McGlassonCV_2026-11-18.pdf" type="application/pdf" height="350"/>
